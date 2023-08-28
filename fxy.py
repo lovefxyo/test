@@ -1,4 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
-import torch.nn as nn 111
+<<<<<<< HEAD
+
+#``import torch.nn as nn 111``
+>>>>>>> zan
 
